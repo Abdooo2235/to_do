@@ -1,0 +1,16 @@
+{
+  "hello": "Hola",
+  "add": "Añadir",
+  "darkmode": "Modo Oscuro",
+  "lightmode": "Modo Claro",
+  "taskdetails": "Detalles de la Tarea",
+  "entertaskname": "Ingrese el Nombre de la Tarea",
+  "entertasksubtitle": "Ingrese el Subtítulo de la Tarea",
+  "cancel": "Cancelar",
+  "ok": "Aceptar",
+  "waiting": "En espera",
+  "completed": "Completado",
+  "title": "Título",
+  "subtitle": "Subtítulo",
+  "entervalidtitle": "Introduzca un título válido"
+}

@@ -1,0 +1,16 @@
+{
+  "hello": "مرحبا",
+  "add": "أضف",
+  "darkmode": "الوضع المظلم",
+  "lightmode": "الوضع الفاتح",
+  "taskdetails": "تفاصيل المهمة",
+  "entertaskname": "أدخل اسم المهمة",
+  "entertasksubtitle": "أدخل وصف المهمة",
+  "cancel": "إلغاء",
+  "ok": "حسنًا",
+  "waiting": "قيد الانتظار",
+  "completed": "مكتمل",
+  "title": "العنوان",
+  "subtitle": "عنوان فرعي",
+  "entervalidtitle": "ادخل اسم صحيح"
+}
